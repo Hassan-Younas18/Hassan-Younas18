@@ -41,6 +41,6 @@ Multi-source pipeline with proxy rotation, retry logic, and crash-safe CSV stora
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Hassan-Younas18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hassan-Younas18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Younas18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Hassan-Younas18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)<br/>
+![](https://streak-stats.demolab.com/?user=Hassan-Younas18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Younas18&theme=dark&hide_border=false&layout=compact)
